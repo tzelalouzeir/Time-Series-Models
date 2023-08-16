@@ -8,6 +8,7 @@ The primary aim was to understand, implement, and evaluate different models on t
 ## 📊 What's Inside:
 
 ### 1️⃣ Data Preparation
+- Data contain **'timestamp', 'Open', 'High', 'Low', 'Close', 'Volume'** dataframes.
 - Split the data into **training** and **test** sets.
 - Scaled the data for smoother model ingestion.
 
